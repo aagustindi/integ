@@ -1,0 +1,20 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #000000!important;
+}
+p {
+    color: #000000!important;
+}
+
+.tituloDos {
+    color: rgb(253, 253, 253)!important; /* Cambiar el color del texto a azul */
+}  
+
+.parrafoDos { 
+    color: white!important;      
+    font-size: 18px!important; 
+    }
+
+.primera-linea {
+        display: block; /* Hacer que el elemento <span> sea un bloque */
+    }
+           
